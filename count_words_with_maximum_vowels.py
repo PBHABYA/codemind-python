@@ -7,4 +7,4 @@ for i in s:
         if j in l:
             d+=1
     c.append(d)
-print(c.count(max(c)))        
+print(c.count(max(c)))       
